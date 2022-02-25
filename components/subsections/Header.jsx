@@ -52,7 +52,7 @@ function Header() {
         <header className="w-[100%] border-b-[1.5px] border-digiftBorder/40 dark:border-headerToggleDark/25 flex z-[999] items-center justify-center top-0 sticky backdrop-blur-[8px]">
             <section className="w-[95%] max-w-[90em] py-[1em] flex flex-row lg:justify-between items-center mx-auto">
                 <div className="w-[50%] lg:w-auto">
-                    <h4 className="text-[1.5em] font-bold">Digift</h4>
+                    <h4 className="text-[1.25em] md:text-[1.5em] font-bold">Digift</h4>
                 </div>
                 <div className="py-[0.781em] lg:flex px-[1em] bg-digiftGray rounded-[0.25em] w-[40%] hidden flex-row dark:bg-toogleBgDark">
                     <SearchIcon className='w-[1.2em] mr-[0.5em] text-prevalentTextSecondary dark:text-prevalentTextSecondary/50' />
@@ -61,7 +61,7 @@ function Header() {
 
                 <div className="flex flex-row lg:justify-evenly w-[95%] lg:w-[25%] justify-end">
                     <Link href="/">
-                        <a className="flex-row flex bg-digiftBrandBlue py-[0.871em] hover:rounded-[8px] transition duration-300 ease-in-out text-white rounded-[4px] px-[1em] text-[14px] w-[45%] items-center justify-center font-medium">Login <ArrowRightIcon className="w-[1em] ml-[1em] hidden md:flex" /></a>
+                        <a className="flex-row hidden md:flex bg-digiftBrandBlue py-[0.871em] hover:rounded-[8px] transition duration-300 ease-in-out text-white rounded-[4px] px-[1em] text-[14px] w-[45%] items-center justify-center font-medium">Login <ArrowRightIcon className="w-[1em] ml-[1em] hidden md:flex" /></a>
                     </Link>
                     <Link href="/">
                         <a className="lg:flex flex-row hidden border-[2px] border-digiftBorder dark:border-headerToggleDark/25 bg-transparent text-prevalentText dark:text-white py-[0.871em] hover:rounded-[8px] transition duration-300 ease-in-out rounded-[4px] px-[1em] text-[14px] w-[45%] items-center justify-center font-medium">Sign up <ArrowRightIcon className="w-[1em] ml-[1em]" /></a>

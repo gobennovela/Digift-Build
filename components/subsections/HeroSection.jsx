@@ -18,11 +18,11 @@ function HeroSection() {
                     <h1 className="text-[10vw] md:text-[4em] lg:text-[6.5vw] text-darkText dark:text-white font-extrabold tracking-tight leading-auto"><span className="text-digiftBrandBlue" >world</span> simplified</h1>
                 </div>
                 <div className="w-[90%] md:w-[70%] lg:w-[40%] mt-[3vh]">
-                    <p className='text-center leading-[2] font-medium text-prevalentText text-[14px] lg:text-[16px] dark:text-white'>You can choose from a wide range of gift cards, ranging from well-known brands like Amazon and Itunes to local retailers like Shoprite and David Wej.</p>
+                    <p className='text-center leading-[2] font-medium text-prevalentText text-[14px] lg:text-[16px] dark:text-white'>You can choose from a wide range of gift cards, ranging from well-known brands like Amazon and Itunes to local retailers like Shoprite.</p>
                 </div>
                 <div className='w-[100%] flex flex-row items-center justify-center mt-[3vh] lg:mt-[6vh]'>
                     <Link href="/">
-                        <a className="flex-row w-[80%] md:w-[50%] lg:w-[15%] flex bg-digiftBrandBlue py-[1.5em] lg:py-[1.25em] hover:rounded-[8px] transition duration-300 ease-in-out text-white rounded-[4px] px-[1em] text-[14px] items-center justify-center font-medium">Get Started <SparklesIcon className="w-[1.25em] ml-[1em]" /></a>
+                        <a className="flex-row w-[80%] md:w-[50%] lg:w-[15%] flex bg-digiftBrandBlue py-[1.25em] lg:py-[1.25em] hover:rounded-[8px] transition duration-300 ease-in-out text-white rounded-[4px] px-[1em] text-[14px] items-center justify-center font-medium">Get Started <SparklesIcon className="w-[1.25em] ml-[1em]" /></a>
                     </Link>
                 </div>
             </div>
