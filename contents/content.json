@@ -1,0 +1,46 @@
+{
+    "content": [
+        {
+            "id": 1,
+            "category": "Electricity",
+            "name": "Skype Inc.:",
+            "description": "Skype Inc. eGift Card never expire and can be redeemed towards millions of items",
+            "imageUrl": "https://res.cloudinary.com/bennovela/image/upload/v1645819377/2_dmbgjr.png"
+        },
+        {
+            "id": 2,
+            "category": "Electricity",
+            "name": "IBEDC",
+            "description": "IBEDC eGift Card never expire and can be redeemed towards millions of items",
+            "imageUrl": "https://res.cloudinary.com/bennovela/image/upload/v1645820017/4_pdwzzr.png"
+        },
+        {
+            "id": 3,
+            "category": "Airtime",
+            "name": "Hotels.com",
+            "description": "Hotels.com eGift Card never expire and can be redeemed towards millions of items",
+            "imageUrl": "https://res.cloudinary.com/bennovela/image/upload/v1645819377/2_dmbgjr.png"
+        },
+        {
+            "id": 4,
+            "category": "Airtime",
+            "name": "Nordstrom",
+            "description": "Nordstrom eGift Card never expire and can be redeemed towards millions of items...",
+            "imageUrl": "https://res.cloudinary.com/bennovela/image/upload/v1645820017/4_pdwzzr.png"
+        },
+        {
+            "id": 5,
+            "category": "Television",
+            "name": "Microsoft Office 365 Home — 1 Year",
+            "description": "Microsoft Office 365 Home — 1 Year eGift Card never expire and can be...",
+            "imageUrl": "https://res.cloudinary.com/bennovela/image/upload/v1645819377/2_dmbgjr.png"
+        },
+        {
+            "id": 6,
+            "category": "Ecommerce",
+            "name": "Nintendo eShop",
+            "description": "Nintendo eShop eGift Card never expire and can be redeemed towards millions of items...",
+            "imageUrl": "https://res.cloudinary.com/bennovela/image/upload/v1645820017/4_pdwzzr.png"
+        }
+    ]
+}

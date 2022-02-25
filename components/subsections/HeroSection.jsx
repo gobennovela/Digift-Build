@@ -18,7 +18,7 @@ function HeroSection() {
                     <h1 className="text-[10vw] md:text-[4em] lg:text-[6.5vw] text-darkText dark:text-white font-extrabold tracking-tight leading-auto"><span className="text-digiftBrandBlue" >world</span> simplified</h1>
                 </div>
                 <div className="w-[90%] md:w-[70%] lg:w-[40%] mt-[3vh]">
-                    <p className='text-center leading-[2] font-medium text-prevalentText dark:text-white'>You can choose from a wide range of gift cards, ranging from well-known brands like Amazon and Itunes to local retailers like Shoprite and David Wej.</p>
+                    <p className='text-center leading-[2] font-medium text-prevalentText text-[14px] lg:text-[16px] dark:text-white'>You can choose from a wide range of gift cards, ranging from well-known brands like Amazon and Itunes to local retailers like Shoprite and David Wej.</p>
                 </div>
                 <div className='w-[100%] flex flex-row items-center justify-center mt-[3vh] lg:mt-[6vh]'>
                     <Link href="/">
