@@ -14,7 +14,7 @@ function CollectionItem() {
             <h3 className="text-[1em] font-semibold pb-[1.5vh] border-b-[1px] border-digiftGray dark:border-headerToggleDark/50 w-[100%] mb-[1.5vh]">1800Flowers.com</h3>
             <p className="text-[14px] font-medium max-w-[95%] max-h-[9vh] overflow-hidden text-prevalentText dark:text-gray-300 overflow-ellipsis leading-[2]">A front-end developer eats alone because he doesn’t know how to join tables.</p>
             <Link href="">
-              <a className="w-[100%] mt-[1.25em] py-[1.25em] px-[1em] dark:bg-digiftBrandBlue hover:bg-digiftBrandBlue hover:text-white transition duration-400 dark:text-white text-digiftBrandBlue font-medium bg-lightBgColor rounded-full flex flex-col items-center justify-center text-[14px]">View details</a>
+              <a className="w-[100%] mt-[1.25em] py-[1.25em] px-[1em] dark:hover:bg-digiftBrandBlue/80 dark:bg-digiftBrandBlue hover:bg-digiftBrandBlue hover:text-white transition duration-400 dark:text-white text-digiftBrandBlue font-medium bg-lightBgColor rounded-full flex flex-col items-center justify-center text-[14px]">View details</a>
             </Link>
           </div>
         </div>
@@ -28,7 +28,7 @@ function CollectionItem() {
             <h3 className="text-[1em] font-semibold pb-[1.5vh] border-b-[1px] border-digiftGray dark:border-headerToggleDark/50 w-[100%] mb-[1.5vh]">1800Flowers.com</h3>
             <p className="text-[14px] font-medium max-w-[95%] max-h-[9vh] overflow-hidden text-prevalentText dark:text-gray-300 overflow-ellipsis leading-[2]">A front-end developer eats alone because he doesn’t know how to join tables.</p>
             <Link href="">
-              <a className="w-[100%] mt-[1.25em] py-[1.25em] px-[1em] hover:bg-digiftBrandBlue hover:text-white transition duration-400 dark:bg-digiftBrandBlue dark:text-white text-digiftBrandBlue font-medium bg-lightBgColor rounded-full flex flex-col items-center justify-center text-[14px]">View details</a>
+              <a className="w-[100%] mt-[1.25em] py-[1.25em] px-[1em] dark:hover:bg-digiftBrandBlue/80 hover:bg-digiftBrandBlue hover:text-white transition duration-400 dark:bg-digiftBrandBlue dark:text-white text-digiftBrandBlue font-medium bg-lightBgColor rounded-full flex flex-col items-center justify-center text-[14px]">View details</a>
             </Link>
           </div>
         </div>
@@ -42,7 +42,7 @@ function CollectionItem() {
             <h3 className="text-[1em] font-semibold pb-[1.5vh] border-b-[1px] border-digiftGray dark:border-headerToggleDark/50 w-[100%] mb-[1.5vh]">1800Flowers.com</h3>
             <p className="text-[14px] font-medium max-w-[95%] max-h-[9vh] overflow-hidden text-prevalentText dark:text-gray-300 overflow-ellipsis leading-[2]">A front-end developer eats alone because he doesn’t know how to join tables.</p>
             <Link href="">
-              <a className="w-[100%] mt-[1.25em] py-[1.25em] px-[1em] hover:bg-digiftBrandBlue hover:text-white transition duration-400 dark:bg-digiftBrandBlue dark:text-white text-digiftBrandBlue font-medium bg-lightBgColor rounded-full flex flex-col items-center justify-center text-[14px]">View details</a>
+              <a className="w-[100%] mt-[1.25em] py-[1.25em] px-[1em] dark:hover:bg-digiftBrandBlue/80 hover:bg-digiftBrandBlue hover:text-white transition duration-400 dark:bg-digiftBrandBlue dark:text-white text-digiftBrandBlue font-medium bg-lightBgColor rounded-full flex flex-col items-center justify-center text-[14px]">View details</a>
             </Link>
           </div>
         </div>

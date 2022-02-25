@@ -7,7 +7,7 @@ import {SparklesIcon} from '@heroicons/react/outline';
 function HeroSection() {
     return (
         <section className="w-[100%] mt-[2vh] lg:mt-[2vh] xl:mt-[1vh] flex flex-row items-center">
-            <div className="flex flex-col w-[100%] max-w-[90em] items-center justify-between my-auto mx-auto py-[7vh]">
+            <div className="flex flex-col w-[100%] max-w-[90em] items-center justify-between my-auto mx-auto py-[3vh] lg:py-[7vh]">
                 <div className='mx-auto self-center w-auto flex flex-row items-center justify-center'>
                     <LottieAnimation />
                 </div>

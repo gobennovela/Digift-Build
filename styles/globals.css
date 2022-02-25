@@ -16,6 +16,9 @@ html::-webkit-scrollbar {
 }
 
 @layer components {
+  .filterTag {
+    @apply dark:text-white text-prevalentText cursor-pointer font-medium py-[1em] lg:py-[.8em] text-[14px] px-[.5em];
+  }
   .filterButton {
     @apply bg-digiftGray w-auto dark:bg-toogleBgDark dark:text-white text-prevalentText cursor-pointer font-medium py-[1em] lg:py-[.8em] text-[14px] px-[1em] rounded-full;
   }
