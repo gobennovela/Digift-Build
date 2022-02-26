@@ -29,7 +29,7 @@ function Footer() {
 
     return (
         <section className="w-[100%] flex flex-row self-center mt-[3em]">
-            <div className="w-[90%] mx-auto border-t-[1.5px] py-[9vh] border-digiftBorder dark:border-headerToggleDark/25">
+            <div className="w-[80%] lg:w-[90%] mx-auto border-t-[1.5px] py-[9vh] border-digiftBorder dark:border-headerToggleDark/25">
                 <div className="w-[100%] flex flex-col lg:flex-row items-start justify-between">
                     <div>
                         <h4 className="text-[1.25em] mb-[2.5vh] md:text-[1.5em] font-bold">Digift</h4>
@@ -64,8 +64,8 @@ function Footer() {
                 </div>
 
                 <div className="mt-[10vh] flex flex-col lg:flex-row justify-between items-center md:items-start w-[100%.871">
-                    <h4 className="footerLink">© Copyright 2022 Bennovela, All rights reserved.</h4>
-                    <div className="flex flex-row items-center justify-between w-[80%] lg:w-auto">
+                    <h4 className="footerLink text-center">© Copyright 2022 Bennovela, All rights reserved.</h4>
+                    <div className="flex flex-row items-center justify-between w-[100%] lg:w-auto">
                         <h4 className="footerLink mr-[2.5vh]">Privacy Policy</h4>
                         <h4 className="footerLink">Terms and Condition</h4>
                     </div>

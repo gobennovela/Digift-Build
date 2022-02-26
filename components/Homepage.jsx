@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import CollectionSection from './subsections/CollectionSection';
 import Footer from './subsections/Footer';
 import Header from './subsections/Header';

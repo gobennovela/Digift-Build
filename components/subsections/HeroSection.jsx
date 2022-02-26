@@ -1,6 +1,5 @@
-import { ArrowRightIcon } from '@heroicons/react/outline';
 import Link from 'next/link';
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import LottieAnimation from '../abstract/lottieanimation';
 import {SparklesIcon} from '@heroicons/react/outline';
 

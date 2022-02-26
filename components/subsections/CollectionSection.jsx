@@ -23,9 +23,8 @@ function CollectionSection() {
             let actualContent = category === 'Popular' ? data.content : data.content.filter(item => item.category === category);
             setCollection(actualContent);
             setCategory(category)
-            console.log(actualContent)
         } catch (error) {
-            console.log(error)
+            
         }
     }
 
